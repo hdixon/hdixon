@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-![CodersRank Summary Chart](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hdixon)
-
 ![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hdixon)
 
 <img
