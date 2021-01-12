@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdixon&show_icons=true)  
+
+
+![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hdixon)
